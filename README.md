@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Project Status: 
+## 🎯 Project : 
 
 **Your website is ready to launch!** Just one step remaining: Create database tables in Supabase.
 
